@@ -1,5 +1,4 @@
-# ⛹️‍♂️ ```diff 
-- Brian Zenhom ```
+# ⛹️‍♂️ Brian Zenhom
 
 **`Digital Craftsman (Developer/Designer)`**
 
