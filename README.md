@@ -1,4 +1,8 @@
-### Hi there 👋
+# ⛹️‍♂️ <font color="blue"> Brian Zenhom </font>
+
+Digital Craftsman (Developer/Designer)
+
+I'm a Junior full-stack developer, building my version of user-friendly experiences and committed to improving my skills through continuous learning.
 
 <!--
 **BrianZenhom/BrianZenhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
