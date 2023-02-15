@@ -28,4 +28,4 @@ I'm a full-stack developer, building my version of user-friendly experiences and
 
 ### 📊 Stats
 
-![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=nightowl)
+![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=gruvbox)
