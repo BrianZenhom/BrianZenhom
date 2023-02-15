@@ -6,4 +6,4 @@ I'm a full-stack developer, building my version of user-friendly experiences and
 
 
 
-## What im up to
+# Languages and Tools
