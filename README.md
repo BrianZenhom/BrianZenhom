@@ -4,3 +4,6 @@
 
 I'm a full-stack developer, building my version of user-friendly experiences and committed to improving my skills through continuous learning.
 
+
+
+## What im up to
