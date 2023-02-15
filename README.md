@@ -26,4 +26,6 @@ I'm a full-stack developer, building my version of user-friendly experiences and
 
 #
 
-![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=gruvbox)
+### 📊 Stats
+
+![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=nightowl)
