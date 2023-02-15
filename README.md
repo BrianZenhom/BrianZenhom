@@ -1,20 +1,13 @@
-# ⛹️‍♂️ <span style="color: blue"> Brian Zenhom </span>
+# ⛹️‍♂️ ```dif -Brian Zenhom
 
-Digital Craftsman (Developer/Designer)
+**`Digital Craftsman (Developer/Designer)`**
 
 I'm a Junior full-stack developer, building my version of user-friendly experiences and committed to improving my skills through continuous learning.
 
-<!--
-**BrianZenhom/BrianZenhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
