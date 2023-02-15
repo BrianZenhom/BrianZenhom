@@ -1,4 +1,4 @@
-# ⛹️‍♂️ <font color="blue"> Brian Zenhom </font>
+# ⛹️‍♂️ <span style="color: blue"> Brian Zenhom </span>
 
 Digital Craftsman (Developer/Designer)
 
