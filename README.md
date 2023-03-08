@@ -1,4 +1,4 @@
-# ⛹️‍♂️ Brian Zenhom
+# Brian Zenhom
 
 **`Digital Craftsman (Developer/Designer)`**
 
@@ -6,7 +6,7 @@ I'm a full-stack developer, building my version of user-friendly experiences and
 
 
 ---
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
@@ -39,7 +39,7 @@ I'm a full-stack developer, building my version of user-friendly experiences and
 
 #
 
-### 📊 Stats
+### Stats
 
 ![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=dark)
 
