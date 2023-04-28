@@ -3,6 +3,7 @@
 **`Digital Craftsman (Developer/Designer)`**
 
 I'm a full-stack developer, building my version of user-friendly experiences and committed to improving my skills through continuous learning.
+Been a graphic designer for 9+ years, for the past year i've been diving deep into software developing. 
 
 
 ---
