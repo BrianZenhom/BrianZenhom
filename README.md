@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Developer/Designer)`**
 
-Building my version of user-friendly experiences and committed to improving my skills through continuous learning.
-Been a graphic designer for 9+ years.
-2+ years web developing. 
+Building my version of user-friendly front and backend services, committed to improving my skills through continuous learning.
+Been a graphic designer for 9+ years, dove deep into web developing for the past 2+ years.
+
 
 
 ---
