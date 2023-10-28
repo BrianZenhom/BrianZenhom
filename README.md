@@ -9,6 +9,7 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 <img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <br>
+<br>
 ---
 ### What i'm up to
 
