@@ -8,7 +8,7 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 
 
 ---
-### Languages and Tools
+### What I'm up to
 
  
 <img align="left" alt="Html5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
