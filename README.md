@@ -6,7 +6,7 @@ Building my version of user-friendly front and backend services, improving my sk
 Been a graphic designer for 10+ years, dove deep into web developing for the past 2+ years.
 
 <a href="https://linkedin.brianzenhom.com">
-<img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://www.linkedin.com/in/brianzenhom/" target="_blank" />
+<img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://www.linkedin.com/in/brianzenhom/" />
 </a>
 <br>
 <br>
