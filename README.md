@@ -5,6 +5,13 @@
 Building my version of user-friendly front and backend services, improving my skills one character at a time.
 Been a graphic designer for 10+ years, dove deep into web developing for the past 2+ years.
 
+<a href="https://twitter.brianzenhom.com">
+<img align="left" alt="Brian Zenhom Twitter" width="22px" src="https://icons8.com/icon/fJp7hepMryiw/twitterx" />
+</a>
+<a href="https://linkedin.brianzenhom.com">
+<img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+
 ---
 ### What i'm up to
 
