@@ -5,8 +5,8 @@
 Building my version of user-friendly front and backend services, improving my skills one character at a time.
 Been a graphic designer for 10+ years, dove deep into web developing for the past 2+ years.
 
-<a href="https://linkedin.brianzenhom.com">
-<img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://www.linkedin.com/in/brianzenhom/" />
+<a href="https://www.linkedin.com/in/brianzenhom/" target="_blank">
+<img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <br>
 <br>
