@@ -16,8 +16,6 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 
 <li>I'm currently looking to be hired</li>
 <li>I'm currently developing freelance projects</li>
-<li>Owner CEO of VividEncode</li>
-<li>Creating custom services for clients since 2009</li>
 
 
 
