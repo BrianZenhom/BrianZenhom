@@ -10,8 +10,6 @@ I'm building my version of user-friendly front and backend services, improving m
 
 <br>
 
-#
-
 ## What i'm up to
 
 - 💼 I’m currently looking to be hired @ [Behance](https://www.behance.net/brianzenhomdev).
