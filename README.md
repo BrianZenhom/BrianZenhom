@@ -9,7 +9,7 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 <img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <br>
-
+---
 #
 ### What i'm up to
 
@@ -45,4 +45,3 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 
 ![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=dark)
 
-#
