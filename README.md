@@ -1,4 +1,6 @@
-# Brian Zenhom
+Hello 🙋🏽‍♂️ soy # Brian Zenhom 
+
+---
 
 **`Digital Craftsman (FullStack Dev - Designer)`**
 
@@ -10,7 +12,7 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 </a>
 <br>
 
----
+#
 
 ### What i'm up to
 
