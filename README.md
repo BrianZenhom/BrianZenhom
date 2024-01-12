@@ -1,27 +1,32 @@
 <p align="center" width="400">
-            <h1>Hello 👋🏽, soy Brian Zenhom </h1>
+            ## Hello 👋🏽 It's [Brian!](https://brianzenhom.com)
+            I'm building my version of user-friendly front and backend services, improving my skills one character at a time.
+Been a graphic designer for 10+ years, dove deep into web developing for the past 2+ years.
 </p>
 
+<br/>
 
 **`Digital Craftsman (FullStack Dev - Designer)`**
 
-Building my version of user-friendly front and backend services, improving my skills one character at a time.
-Been a graphic designer for 10+ years, dove deep into web developing for the past 2+ years.
+
 
 <a href="https://www.linkedin.com/in/brianzenhom/" target="_blank">
 <img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
+
 <br>
 
 #
 
-### What i'm up to
+## What i'm up to
 
-<li>💼  I'm currently looking to be hired</li>
-<li>💻  I'm currently developing freelance projects</li>
+- 💼 I’m currently looking to be hired @ [Behance](https://www.behance.net/brianzenhomdev).
+- 💻 I’m currently developing freelance projects
+- 🌱 I’m currently working with [React](https://reactjs.org).
 
-#
-### Languages and tools
+<br />
+
+## Languages and tools
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
@@ -45,7 +50,7 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 
 
 ---
-### Stats
+## Stats
 
 ![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=dark)
 
