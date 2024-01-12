@@ -17,8 +17,6 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 <li>I'm currently looking to be hired</li>
 <li>I'm currently developing freelance projects</li>
 
-
-
 ---
 ### Languages and tools
 
@@ -37,10 +35,6 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 <img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 
 <img align="left" alt="PS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-
----
-
-
           
 
 <br/>
