@@ -1,4 +1,4 @@
-<h3> align="center" width="400">Hello 🙋🏽‍♂️ soy</h3><h1>Brian Zenhom </h1>
+<h3 align="center" width="400">Hello 🙋🏽‍♂️ soy</h3><h1>Brian Zenhom </h1>
 
 ---
 
