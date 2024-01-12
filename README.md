@@ -46,5 +46,5 @@ I'm building my version of user-friendly front and backend services, improving m
 ---
 ## Stats
 
-![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&theme=dark)
+![Brian's Github stats](https://github-readme-stats.vercel.app/api?username=BrianZenhom&show_icons=true&hide_border=true)
 
