@@ -16,7 +16,6 @@ I'm building my version of user-friendly front and backend services, improving m
 
 - 💼 I’m currently looking to be hired @ [Behance](https://www.behance.net/brianzenhomdev).
 - 💻 I’m currently developing freelance projects
-- 🌱 I’m currently working with [React](https://reactjs.org).
 
 <br />
 
