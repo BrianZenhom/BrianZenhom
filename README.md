@@ -1,12 +1,8 @@
-## Hello 👋🏽 It's [Brian!](https://brianzenhom.com)
+## Hello 👋🏽 It's [Brian!](https://brianzenhom.dev)
+**`Digital Craftsman (FullStack Dev - Designer)`**
 I'm building my version of user-friendly front and backend services, improving my skills one character at a time. Been a graphic designer for 10+ years, dove deep into web developing for the past 2+ years.
 
-
 <br/>
-
-**`Digital Craftsman (FullStack Dev - Designer)`**
-
-
 
 <a href="https://www.linkedin.com/in/brianzenhom/" target="_blank">
 <img align="left" alt="Brian Zenhom LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
