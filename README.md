@@ -1,4 +1,6 @@
-<h1 width="100">Hello 🙋🏽‍♂️ </h1><h2>Brian Zenhom </h2>
+<p align="center" width="400">
+            <h1>Hello 👋🏽, soy Brian Zenhom </h1>
+</p>
 
 
 **`Digital Craftsman (FullStack Dev - Designer)`**
