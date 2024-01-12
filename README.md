@@ -12,7 +12,6 @@ Been a graphic designer for 10+ years, dove deep into web developing for the pas
 
 ---
 
-#
 ### What i'm up to
 
 <li>I'm currently looking to be hired</li>
