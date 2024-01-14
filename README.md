@@ -2,7 +2,7 @@
 **`Digital Craftsman (FullStack Developer / Designer)`**
 <br/>
 
-I'm building my version of user-friendly front and backend services, improving my skills one character at a time. Been a graphic designer for 10+ years and dove into web developing for the past 2+ years.
+I'm creating user-friendly front-end and back-end services, refining my skills character by character. With over 10 years as a graphic designer, I've delved into web development for the past 2 years, constantly growing and embracing new challenges.
 <br/>
 
 <a href="https://www.linkedin.com/in/brianzenhom/" target="_blank">
