@@ -13,7 +13,7 @@ I'm creating user-friendly front-end and back-end services, refining my skills c
 
 ## What i'm up to
 
-- 💼 I’m currently looking to be hired
+- 💼 I’m currently looking to be hired 
 - 💻 I’m currently developing freelance projects
 
 <br />
