@@ -1,5 +1,5 @@
 ## Hello 👋🏽 It's [Brian!](https://brianzenhom.dev)
-**`Digital Craftsman (FullStack Developer / Designer)`**
+**`Digital Craftsman (FullStack Developer)`**
 <br/>
 
 I'm creating user-friendly front-end and back-end services, refining my skills character by character. With over 10 years as a graphic designer, I've delved into web development for the past 2 years, constantly growing and embracing new challenges.
